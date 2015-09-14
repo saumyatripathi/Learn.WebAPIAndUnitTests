@@ -1,0 +1,4 @@
+c:\users\saumya\documents\visual studio 2015\Projects\Learn.WebAPIAndUnitTests.ConsoleTest\Learn.WebAPIAndUnitTests\bin\Debug\Learn.WebAPIAndUnitTests.dll
+c:\users\saumya\documents\visual studio 2015\Projects\Learn.WebAPIAndUnitTests.ConsoleTest\Learn.WebAPIAndUnitTests\bin\Debug\Learn.WebAPIAndUnitTests.pdb
+c:\users\saumya\documents\visual studio 2015\Projects\Learn.WebAPIAndUnitTests.ConsoleTest\Learn.WebAPIAndUnitTests\obj\Debug\Learn.WebAPIAndUnitTests.dll
+c:\users\saumya\documents\visual studio 2015\Projects\Learn.WebAPIAndUnitTests.ConsoleTest\Learn.WebAPIAndUnitTests\obj\Debug\Learn.WebAPIAndUnitTests.pdb

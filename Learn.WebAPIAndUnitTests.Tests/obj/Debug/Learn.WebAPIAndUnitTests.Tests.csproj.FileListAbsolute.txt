@@ -1,0 +1,10 @@
+c:\users\saumya\documents\visual studio 2015\Projects\Learn.WebAPIAndUnitTests.ConsoleTest\Learn.WebAPIAndUnitTests.Tests\bin\Debug\Learn.WebAPIAndUnitTests.Tests.dll
+c:\users\saumya\documents\visual studio 2015\Projects\Learn.WebAPIAndUnitTests.ConsoleTest\Learn.WebAPIAndUnitTests.Tests\bin\Debug\Learn.WebAPIAndUnitTests.Tests.pdb
+c:\users\saumya\documents\visual studio 2015\Projects\Learn.WebAPIAndUnitTests.ConsoleTest\Learn.WebAPIAndUnitTests.Tests\obj\Debug\Learn.WebAPIAndUnitTests.Tests.csprojResolveAssemblyReference.cache
+c:\users\saumya\documents\visual studio 2015\Projects\Learn.WebAPIAndUnitTests.ConsoleTest\Learn.WebAPIAndUnitTests.Tests\obj\Debug\Learn.WebAPIAndUnitTests.Tests.dll
+c:\users\saumya\documents\visual studio 2015\Projects\Learn.WebAPIAndUnitTests.ConsoleTest\Learn.WebAPIAndUnitTests.Tests\obj\Debug\Learn.WebAPIAndUnitTests.Tests.pdb
+c:\users\saumya\documents\visual studio 2015\Projects\Learn.WebAPIAndUnitTests.ConsoleTest\Learn.WebAPIAndUnitTests.Tests\bin\Debug\Learn.WebAPIAndUnitTests.dll
+c:\users\saumya\documents\visual studio 2015\Projects\Learn.WebAPIAndUnitTests.ConsoleTest\Learn.WebAPIAndUnitTests.Tests\bin\Debug\nunit.framework.dll
+c:\users\saumya\documents\visual studio 2015\Projects\Learn.WebAPIAndUnitTests.ConsoleTest\Learn.WebAPIAndUnitTests.Tests\bin\Debug\Learn.WebAPIAndUnitTests.pdb
+c:\Users\Saumya\Documents\Visual Studio 2015\Projects\Learn.WebAPIAndUnitTests.ConsoleTest\Learn.WebAPIAndUnitTests.Tests\bin\Debug\NSubstitute.dll
+c:\Users\Saumya\Documents\Visual Studio 2015\Projects\Learn.WebAPIAndUnitTests.ConsoleTest\Learn.WebAPIAndUnitTests.Tests\bin\Debug\NSubstitute.xml
